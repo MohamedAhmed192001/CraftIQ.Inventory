@@ -1,0 +1,6 @@
+@CraftlQ.Inventory.API_HostAddress = http://localhost:5244
+
+GET {{CraftlQ.Inventory.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
