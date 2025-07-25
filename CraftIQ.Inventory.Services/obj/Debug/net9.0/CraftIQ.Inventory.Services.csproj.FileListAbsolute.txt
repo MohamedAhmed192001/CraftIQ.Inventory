@@ -1,0 +1,11 @@
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\bin\Debug\net9.0\CraftIQ.Inventory.Services.deps.json
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\bin\Debug\net9.0\CraftIQ.Inventory.Services.dll
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\bin\Debug\net9.0\CraftIQ.Inventory.Services.pdb
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.AssemblyInfoInputs.cache
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.AssemblyInfo.cs
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.dll
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\refint\CraftIQ.Inventory.Services.dll
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\CraftIQ.Inventory.Services.pdb
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Services\obj\Debug\net9.0\ref\CraftIQ.Inventory.Services.dll
