@@ -10,6 +10,7 @@ builder.Services.AddOpenApi();
 
 var inventoryConnectionString = builder.Configuration.GetSection("ConnectionStrings:InventoryDbConnection");
 builder.Services.AddInventoryDbContext(inventoryConnectionString.Value!);
+builder.Services.AddInfrastructureRegisterations();
 
 
 var app = builder.Build();

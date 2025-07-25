@@ -8,6 +8,6 @@ namespace CraftIQ.Inventory.Infrastructure
     {
         public static void AddInventoryDbContext(this IServiceCollection services, string inventoryConnectionString) =>
             services.AddDbContext<AppDbContext>(options => options.UseSqlServer(inventoryConnectionString, 
-                b => b.MigrationsAssembly("CraftlQ.Inventory.API")));
+                b => b.MigrationsAssembly("CraftIQ.Inventory.Infrastructure")));
     }
 }
