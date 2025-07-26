@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CraftlQ.Inventory.API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250724151411_initial_DB_creation_migration")]
+    [Migration("20250726001744_initial_DB_creation_migration")]
     partial class initial_DB_creation_migration
     {
         /// <inheritdoc />

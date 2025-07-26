@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CraftlQ.Inventory.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1af5ef4c8a01fc919a9a76c77681888df0968617")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab8d8c8783798dc85e4fb72dc26f8bceb9a1f942")]
 [assembly: System.Reflection.AssemblyProductAttribute("CraftlQ.Inventory.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CraftlQ.Inventory.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

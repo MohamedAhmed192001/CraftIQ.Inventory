@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace CraftIQ.Inventory.Infrastructure.Migrations
+namespace CraftlQ.Inventory.API.Migrations
 {
     /// <inheritdoc />
     public partial class initial_DB_creation_migration : Migration

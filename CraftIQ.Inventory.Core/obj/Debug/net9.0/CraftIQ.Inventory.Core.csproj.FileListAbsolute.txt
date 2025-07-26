@@ -9,3 +9,4 @@ E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Cor
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Core\obj\Debug\net9.0\refint\CraftIQ.Inventory.Core.dll
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Core\obj\Debug\net9.0\CraftIQ.Inventory.Core.pdb
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Core\obj\Debug\net9.0\ref\CraftIQ.Inventory.Core.dll
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Core\obj\Debug\net9.0\CraftIQ.Inventory.Core.sourcelink.json

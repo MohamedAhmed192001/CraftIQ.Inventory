@@ -17,7 +17,7 @@ namespace CraftIQ.Inventory.Core.Entities
         public decimal ProfitPerUnit { get; set; }
 
         public int CategoryId { get; set; }
-        public Category Category { get; set; } = new();
+        public Category Category { get; set; } = new Category("","");
 
         public int InventoryId { get; set; }
         public Inventory Inventory { get; set; } = new();

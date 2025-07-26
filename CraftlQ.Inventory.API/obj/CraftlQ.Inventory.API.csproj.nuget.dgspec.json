@@ -227,6 +227,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "huzcodes.Endpoints": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "huzcodes.Extensions": {
+              "target": "Package",
+              "version": "[1.3.0, )"
             }
           },
           "imports": [

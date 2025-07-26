@@ -15,3 +15,4 @@ E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Inf
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Infrastructure\obj\Debug\net9.0\CraftIQ..43950DCB.Up2Date
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Infrastructure\bin\Debug\net9.0\CraftIQ.Inventory.Infrastructure.runtimeconfig.json
 E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Infrastructure\obj\Debug\net9.0\CraftIQ.Inventory.Infrastructure.genruntimeconfig.cache
+E:\Visual Studio 2022\.NET Core Projects\CraftlQ.Inventory\CraftIQ.Inventory.Infrastructure\obj\Debug\net9.0\CraftIQ.Inventory.Infrastructure.sourcelink.json
